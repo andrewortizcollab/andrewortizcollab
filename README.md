@@ -12,7 +12,7 @@ name: Andrew Ortiz
     
   company: Ortiz Collaborative
 
-  technical_interests
+  technical_interests:
     [
       "Database Architecture"
       "Data Science"
