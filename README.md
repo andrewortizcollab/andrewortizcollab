@@ -1,6 +1,8 @@
 # Andrew Ortiz 
 #### Ortiz Collaborative
 
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+
 ```yaml
 name: Andrew Ortiz
   pronouns: he/him
@@ -23,5 +25,5 @@ name: Andrew Ortiz
     ]  
 ```
 
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+
 
