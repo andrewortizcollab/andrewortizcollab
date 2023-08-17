@@ -5,10 +5,6 @@
 name: Andrew Ortiz
   pronouns: he/him
   located: Pennsylvania, United States
-  education:
-    - Self-Taught Database Admin and Developer
-    - Associate's Degree in Business Mgmt.
-    - Studied History at NCSU
     
   company: Ortiz Collaborative
 
